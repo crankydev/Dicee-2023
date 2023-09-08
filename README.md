@@ -1,3 +1,5 @@
+Update: trying to figure out how to commit my changes to the starting project. It's proving a bit tricky... :/
+
 Third app from my (re)Boot Camp (2023 reboot of the iOS App Development Udemy course by the London App Brewery).
 
 On this reboot of my iOS Dev journey, I'm going to be using Xcode to both show my work as well as to summarize my learning through each unit/project.
